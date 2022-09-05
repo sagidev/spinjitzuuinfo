@@ -31,4 +31,4 @@ https://discord.gg/spinjitzuu
 
 ## Patch History
 
-6.0.2
+# 6.0.2
