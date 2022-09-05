@@ -32,3 +32,4 @@ https://discord.gg/spinjitzuu
 # Patch History
 
 ## 6.0.2
+- Reworked champion scripts structure 
