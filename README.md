@@ -4,7 +4,7 @@ http://www.spinjitzuu.lol/
 
 https://discord.gg/spinjitzuu
 
-## Features
+# Features
 
 - Perfect and fully customizable orbwalker (All champs)
 - Advanced target selector (Closest, Lowest, MaxDPS, Ordered list)
@@ -19,16 +19,16 @@ https://discord.gg/spinjitzuu
 - Zoomhack
 - Idk, dont remember rest
 
-## Roadmap
+# Roadmap
 
 - Full twitch script
 - Fix skill drawings
 
-## To fix
+# To fix
 
 - gwen w fix
 - frozenheart fix
 
-## Patch History
+# Patch History
 
-# 6.0.2
+## 6.0.2
