@@ -28,6 +28,7 @@ https://discord.gg/spinjitzuu
 
 - gwen w fix
 - frozenheart fix
+- dead body shooting
 
 # Patch History
 
