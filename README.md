@@ -1,4 +1,4 @@
-# Spinjitzuu External Orbwalker | 6.0.2
+# Spinjitzuu External Orbwalker | 6.1.2
 
 https://league-script.com/
 
@@ -39,5 +39,8 @@ https://discord.gg/spinjitzuu
 - Added Autocasts
 
 ## 6.1.1
+- Dead bodies hotfix
+
+## 6.1.2
 - Added Twitch AutoW
 - Lethaltempo and Twich E Fix
