@@ -1,6 +1,6 @@
 # Spinjitzuu External Orbwalker | 6.0.2
 
-http://www.spinjitzuu.lol/
+https://league-script.com/
 
 https://discord.gg/spinjitzuu
 
@@ -21,7 +21,6 @@ https://discord.gg/spinjitzuu
 
 # Roadmap
 
-- Full twitch script
 - Fix skill drawings
 
 # To fix
@@ -34,3 +33,11 @@ https://discord.gg/spinjitzuu
 
 ## 6.0.2
 - Reworked champion scripts structure 
+
+## 6.1.0
+- Added Zoomhack
+- Added Autocasts
+
+## 6.1.1
+- Added Twitch AutoW
+- Lethaltempo and Twich E Fix
